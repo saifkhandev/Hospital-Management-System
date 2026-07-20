@@ -1,3 +1,7 @@
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Platform](https://img.shields.io/badge/Platform-Console-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 🏥 Hospital Management System
 
 A comprehensive **Hospital Management System** developed in **C language** that simulates the daily operations of a hospital through a menu-driven console application. The project focuses on efficient management of patients, doctors, appointments, hospital beds, medicines, and billing while using file handling to permanently store data.
